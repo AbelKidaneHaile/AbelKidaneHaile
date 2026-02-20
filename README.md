@@ -10,10 +10,9 @@
 
 
 ## About me
-Hi there 👋! I am Abel, a computer engineering graduate from Khalifa University, Abu Dhabi. 
+Hi there 👋! I am Abel, a computer engineering graduate and I am interested in AI, ML, deep learning, software development, data analytics, and data science. I mainly focus on CV and NLP.
 
-I am interested in AI, ML, deep learning, software development, data analytics, and data science. I mainly focus on CV and NLP.
-<div>
+<!-- <div>
   <a href="https://www.linkedin.com/in/abel-kidane-02793b221/" ><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Abel%20Kidane%20Haile-blue?logo=linkedin"> 
   <!--a href="https://github.com/AbelKidaneHaile" ><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-AbelKidaneHaile-green?logo=github"/-->
-</div>
+</div> -->
